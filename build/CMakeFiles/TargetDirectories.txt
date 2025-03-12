@@ -1,0 +1,9 @@
+D:/Facultate/02_Sem2/MachineLearning/TestBedApp/MachineLearningDemo/build/CMakeFiles/MachineLearningDemo.dir
+D:/Facultate/02_Sem2/MachineLearning/TestBedApp/MachineLearningDemo/build/CMakeFiles/edit_cache.dir
+D:/Facultate/02_Sem2/MachineLearning/TestBedApp/MachineLearningDemo/build/CMakeFiles/rebuild_cache.dir
+D:/Facultate/02_Sem2/MachineLearning/TestBedApp/MachineLearningDemo/build/CMakeFiles/list_install_components.dir
+D:/Facultate/02_Sem2/MachineLearning/TestBedApp/MachineLearningDemo/build/CMakeFiles/install.dir
+D:/Facultate/02_Sem2/MachineLearning/TestBedApp/MachineLearningDemo/build/CMakeFiles/install/local.dir
+D:/Facultate/02_Sem2/MachineLearning/TestBedApp/MachineLearningDemo/build/CMakeFiles/install/strip.dir
+D:/Facultate/02_Sem2/MachineLearning/TestBedApp/MachineLearningDemo/build/CMakeFiles/MachineLearningDemo_autogen_timestamp_deps.dir
+D:/Facultate/02_Sem2/MachineLearning/TestBedApp/MachineLearningDemo/build/CMakeFiles/MachineLearningDemo_autogen.dir
