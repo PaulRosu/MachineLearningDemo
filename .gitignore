@@ -42,10 +42,11 @@ CMakeLists.txt.user*
 # Debug and Release directories
 debug/
 release/
+build/
 
 # Application generated files
-*.ini
-*.csv
+# *.ini
+# *.csv
 
 # Visual Studio
 .vs/
